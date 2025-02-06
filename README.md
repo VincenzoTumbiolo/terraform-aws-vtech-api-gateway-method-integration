@@ -1,0 +1,1 @@
+# terraform-aws-vtech-api-gateway-method-integration
